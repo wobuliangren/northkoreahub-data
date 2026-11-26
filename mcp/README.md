@@ -43,9 +43,9 @@ python3 server.py
 
 ## Registry
 
-`server.json` in this directory is a draft manifest for the official MCP registry.
-It is **not yet submitted** — submission is a separate launch step once the custom
-domain is live and verified.
+`server.json` in this directory is the manifest for the official MCP registry.
+The custom domain is live and verified, and submission is in progress: the PyPI
+package (`northkoreahub-mcp` 1.0.0) is built, and the registry publish follows it.
 
 ## Licence
 
